@@ -36,7 +36,7 @@ export function Sidebar() {
     {
       name: 'Nueva venta',
       icon: <PaperPlaneIcon className="w-5 h-5" />,
-      href: '/NuevaVenta',
+      href: '/nueva-venta',
     },
     {
       name: 'Productos',
